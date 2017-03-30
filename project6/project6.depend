@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1481531532 source:c:\users\srisatyasaikamal\desktop\csci272_projects\project6\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	<SOIL.h>
+	<sstream>
+	<math.h>
+
+1473889904 c:\users\srisatyasaikamal\desktop\csci272_projects\common\include\gl\glut.h
+	<string.h>
+	<strings.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1215479608 c:\users\srisatyasaikamal\desktop\csci272_projects\common\include\soil.h
+
